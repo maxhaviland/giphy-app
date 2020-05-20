@@ -3,8 +3,8 @@
 ## sobre o aplicativo
 É um aplicativo simples que faz uma busca na api do giphy developers.
 
-## Aplicativo
-![aplicativo](https://i.ibb.co/9ZNQRM7/cats.gif)
+## Imagem do Aplicativo
+https://i.ibb.co/9ZNQRM7/cats.gif
 
 ## funcionalidades
 * O usuário pode buscar por gifs pelo nome.
