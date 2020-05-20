@@ -1,16 +1,21 @@
-# giphy
+# giphy app
 
-A new Flutter project.
+## sobre o aplicativo
+É um aplicativo simples que faz uma busca na api do giphy developers.
 
-## Getting Started
+## Funcionamento
+![ui](https://i.ibb.co/9ZNQRM7/cats.gif)
 
-This project is a starting point for a Flutter application.
+## funcionalidades
+* O usuário pode buscar por gifs pelo nome.
+* O usuário pode listar mais gifs (limite de 9 gifs por renderização).
+* O usuário pode selecionar o gif e ir para outra tela com a opção de compartilhamento.
+* O usuário pode apertar e segurar no gif para compartilhar.
 
-A few resources to get you started if this is your first Flutter project:
+## tecnologias utilizadas
+* Dart
+* Flutter
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
